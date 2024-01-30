@@ -1,0 +1,14 @@
+.search{
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(94, 94, 94, 0.5);
+    color: #7e7b7b;
+}
+.busqueda span{
+    margin-left: -120px;
+    color: #7e7b7b;
+}
+.busqueda{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}

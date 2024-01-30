@@ -1,0 +1,11 @@
+.logo{
+    background-color: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body{
+    margin: 0;
+}
